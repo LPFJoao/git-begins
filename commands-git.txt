@@ -1,0 +1,9 @@
+commandes:
+
+- git clone <url do repository gitHub>
+
+- git add <"." or the name of the file>
+
+- git commit -m "comentary"
+
+- git push
