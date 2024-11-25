@@ -7,3 +7,5 @@ commandes:
 - git commit -m "comentary"
 
 - git push
+
+- git pull origin main 
