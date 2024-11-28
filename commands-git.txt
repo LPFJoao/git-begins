@@ -9,3 +9,7 @@ commandes:
 - git push
 
 - git pull origin main 
+
+- git branch "nom"
+
+- git checkout "nom"
